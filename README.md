@@ -2,6 +2,7 @@
 ## Tune the Baseline Trading Algorithm
 ### Step 1: Tune the training algorithm by adjusting the size of the training dataset.
 #### What impact resulted from increasing or decreasing the training window?
+![alt=""](Images/eval_step3_backtest.JPG)
 
 ### Step 2: Tune the trading algorithm by adjusting the SMA input features
 #### What impact resulted from increasing or decreasing either or both of the SMA windows?

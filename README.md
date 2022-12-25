@@ -8,3 +8,4 @@
 
 ### Step 3: Choose the set of parameters that best improved the trading algorithm returns
 #### Save a PNG image of the cumulative product of the actual returns vs. the strategy returns
+![alt=""](Images/plotResult_actRet_vs_stratRet.png)

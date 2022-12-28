@@ -10,7 +10,7 @@
 #### Ending period for the training data with an offset of 6 months_
 ![alt=""](Images/6mos-classificationrpt-svc-model.JPG)
 
-![alt=""](Images/plotResult_actRet_vs_stratRet - 6mos.png)
+![alt=""](Images/plotResult_actRet_vs_stratRet-6mos.png)
 
 #### What impact resulted from increasing or decreasing the training window?
 

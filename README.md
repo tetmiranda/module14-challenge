@@ -1,4 +1,6 @@
 # Machine Learning Trading Algorithm Bot
+![alt=""](Images/mod14-bg-challenge.JPG)
+
 ## Tune the Baseline Trading Algorithm
 ### Step 1: Tune the training algorithm by adjusting the size of the training dataset. To do so, slice your data into different periods. Rerun the notebook with the updated parameters
 #### Ending period for the training data with an offset of 3 months_
